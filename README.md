@@ -4,6 +4,8 @@
 
 <p align="center" ><img  src = "images/login page/1.png?raw=true" width = 500px></p>
 
+</br>
+
 <h2>Admin Dashboard</h2>
 
 <table>
@@ -23,6 +25,7 @@
     <td><img src="images/admin page/9.png" alt="Screenshot 9" width="400"/></td>
   </tr>
 </table>
+</br>
 
 <h2>Technician Dashboard</h2>
 
@@ -36,3 +39,6 @@
     <td><img src="images/technician page/4.png" alt="Screenshot 4" width="500"/></td>
   </tr>
 </table>
+</br>
+
+<h2>Salesman Dashboard</h2>
