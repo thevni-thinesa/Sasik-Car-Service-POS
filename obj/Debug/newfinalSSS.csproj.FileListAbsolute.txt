@@ -1,0 +1,75 @@
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.csproj.AssemblyReference.cache
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmHome.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmMain.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmLogin.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.AddTechnician.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmBillList.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmCategoryAdd.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmPOS.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmProductAdd.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmStaffAdd.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.ucProduct.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Properties.Resources.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Sample.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.SampleAdd.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.SampleView.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmCategoryView.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmProductsView.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmStaffView.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.csproj.GenerateResource.cache
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.csproj.CoreCompileInputs.cache
+D:\Final Desktop\new -sss\newfinalSSS\bin\Debug\newfinalSSS.exe.config
+D:\Final Desktop\new -sss\newfinalSSS\bin\Debug\newfinalSSS.exe
+D:\Final Desktop\new -sss\newfinalSSS\bin\Debug\newfinalSSS.pdb
+D:\Final Desktop\new -sss\newfinalSSS\bin\Debug\Guna.UI2.dll
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinal.20FC06C6.Up2Date
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.exe
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.pdb
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmCustomerAdd.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmCustomerView.resources
+D:\Final Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmHomeView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\newfinalSSS.exe.config
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\newfinalSSS.exe
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\newfinalSSS.pdb
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\Guna.UI2.dll
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.csproj.AssemblyReference.cache
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmHome.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmMain.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmLogin.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.AddTechnician.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmCustomerAdd.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmBillList.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmCategoryAdd.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmPOS.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmProductAdd.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmStaffAdd.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.ucProduct.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Properties.Resources.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Sample.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.SampleAdd.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.SampleView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmCategoryView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmCustomerView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmHomeView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmProductsView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.View.frmStaffView.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.csproj.GenerateResource.cache
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.csproj.CoreCompileInputs.cache
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinal.20FC06C6.Up2Date
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.exe
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.pdb
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Buffers.dll
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Memory.dll
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Buffers.xml
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Memory.xml
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmSalesMan.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.frmTechnician.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmPOSsale.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmSaleBill.resources
+C:\Users\jayak\OneDrive\Desktop\new -sss\newfinalSSS\obj\Debug\newfinalSSS.Model.frmMyAccount.resources

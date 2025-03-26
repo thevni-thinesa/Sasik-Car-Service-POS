@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\view\\frmcustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:view\\frmcustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\view\\frmcustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:view\\frmcustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\model\\frmpossale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:model\\frmpossale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\model\\frmpossale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:model\\frmpossale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:frmtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:frmtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\model\\frmmyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:model\\frmmyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|c:\\users\\jayak\\onedrive\\desktop\\new -sss\\newfinalsss\\view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmsalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AC110FD-978E-4C6D-8785-797E78B67474}|newfinalSSS.csproj|solutionrelative:frmsalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOS.cs",
+              "RelativeToolTip": "Model\\frmPOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:14:51.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAtwIUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:08:43.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOS.cs [Design]",
+              "RelativeToolTip": "Model\\frmPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:31:11.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCustomerView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\View\\frmCustomerView.cs",
+              "RelativeDocumentMoniker": "View\\frmCustomerView.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\View\\frmCustomerView.cs [Design]",
+              "RelativeToolTip": "View\\frmCustomerView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:21:38.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCustomerView.cs",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\View\\frmCustomerView.cs",
+              "RelativeDocumentMoniker": "View\\frmCustomerView.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\View\\frmCustomerView.cs",
+              "RelativeToolTip": "View\\frmCustomerView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:21:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:08:41.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTechnician.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmTechnician.cs",
+              "RelativeDocumentMoniker": "frmTechnician.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmTechnician.cs [Design]",
+              "RelativeToolTip": "frmTechnician.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:53:19.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTechnician.cs",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmTechnician.cs",
+              "RelativeDocumentMoniker": "frmTechnician.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmTechnician.cs",
+              "RelativeToolTip": "frmTechnician.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:11:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPOSsale.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOSsale.cs",
+              "RelativeDocumentMoniker": "Model\\frmPOSsale.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOSsale.cs [Design]",
+              "RelativeToolTip": "Model\\frmPOSsale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:37:31.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPOSsale.cs",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOSsale.cs",
+              "RelativeDocumentMoniker": "Model\\frmPOSsale.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmPOSsale.cs",
+              "RelativeToolTip": "Model\\frmPOSsale.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAowIcBAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:37:33.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMyAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmMyAccount.cs",
+              "RelativeDocumentMoniker": "Model\\frmMyAccount.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\Model\\frmMyAccount.cs [Design]",
+              "RelativeToolTip": "Model\\frmMyAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:20:48.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCategoryView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\View\\frmCategoryView.cs",
+              "RelativeDocumentMoniker": "View\\frmCategoryView.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\View\\frmCategoryView.cs [Design]",
+              "RelativeToolTip": "View\\frmCategoryView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:21:34.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSalesMan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmSalesMan.cs",
+              "RelativeDocumentMoniker": "frmSalesMan.cs",
+              "ToolTip": "C:\\Users\\jayak\\OneDrive\\Desktop\\new -sss\\newfinalSSS\\frmSalesMan.cs [Design]",
+              "RelativeToolTip": "frmSalesMan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:13:08.598Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
