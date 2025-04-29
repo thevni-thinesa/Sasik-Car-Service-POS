@@ -42,3 +42,19 @@
 </br>
 
 <h2>Salesman Dashboard</h2>
+
+<table>
+  <tr>
+    <td><img src="images/salesman page/1.png" alt="Screenshot 1" width="500"/></td>
+    <td><img src="images/salesman page/2.png" alt="Screenshot 2" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/salesman page/3.png" alt="Screenshot 3" width="500"/></td>
+    <td><img src="images/salesman page/5.png" alt="Screenshot 5" width="500"/></td>
+  </tr>
+</table>
+</br>
+
+<h2>Final Bill</h2>
+
+<p align="center" ><img src="images/salesman page/4.png" alt="Screenshot 4" width=450px/></p>
